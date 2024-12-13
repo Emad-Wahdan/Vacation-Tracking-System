@@ -15,31 +15,31 @@
 
 ---
 
-## 1. Vision  
+## Vision  
 A brief overview of what the Vacation Tracking System aims to achieve.  
 *(e.g., This system will allow employees to manage and track their vacation requests seamlessly while enabling managers to oversee and approve requests efficiently.)*
 
 ---
 
-## 2. Functional Requirements  
+## Functional Requirements  
 Clearly define the functionalities your system provides.  
 *(e.g., The system should allow employees to submit vacation requests, edit pending requests, and cancel approved ones.)*
 
 ---
 
-## 3. Non-Functional Requirements  
+## Non-Functional Requirements  
 Highlight the qualities and constraints of the system.  
 *(e.g., The system should handle up to 1,000 concurrent users and respond to requests within 2 seconds.)*
 
 ---
 
-## 4. Constraints  
+## Constraints  
 List any constraints or limitations of your system.  
 *(e.g., The system will only support employees within the company domain.)*
 
 ---
 
-## 5. Use Cases  
+## Use Cases  
 
 ### 5.1 Manage Time Use Case  
 #### 5.1.1 Create Request  
@@ -53,13 +53,13 @@ Approved vacation requests can be canceled before the vacation start date.
 
 ---
 
-## 6. Data Model  
+## Data Model  
 Provide an overview or diagram of the data structure used in your system.  
 *(Consider using diagrams such as an Entity-Relationship Diagram for clarity.)*  
 
 ---
 
-## 7. Pseudocode  
+## Pseudocode  
 Include high-level pseudocode or flowcharts that outline the system's logic.  
 *(e.g., Provide steps for submitting and approving requests.)*  
 
