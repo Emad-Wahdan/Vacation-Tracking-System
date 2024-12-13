@@ -16,14 +16,36 @@
 ---
 
 ## Vision  
-A brief overview of what the Vacation Tracking System aims to achieve.  
-*(e.g., This system will allow employees to manage and track their vacation requests seamlessly while enabling managers to oversee and approve requests efficiently.)*
+The primary objective of this application is to enhance the organization's internal business processes, particularly by streamlining and accelerating the management of vacation time requests. By minimizing manual intervention and improving efficiency, the system aims to provide a seamless experience for both employees and managers.
 
 ---
 
-## Functional Requirements  
-Clearly define the functionalities your system provides.  
-*(e.g., The system should allow employees to submit vacation requests, edit pending requests, and cancel approved ones.)*
+### Functional Requirements  
+
+1. **Rules-Based System**  
+   The system operates based on predefined rules to ensure consistency and compliance.
+
+2. **Manager Approval (Optional)**  
+   Managers can approve or reject vacation requests as needed, with approval functionality being optional.
+
+3. **E-Mail Notifications**  
+   Automatic email notifications are sent to both managers and employees regarding the status of vacation requests.
+
+4. **Authentication**  
+   The system leverages the portal’s single-sign-on mechanisms for secure and seamless authentication.
+
+5. **Activity Logs**  
+   Comprehensive activity logs are maintained for all transactions to support auditing and transparency.
+
+6. **HR and System Administration Overrides**  
+   HR and system administrators have the ability to override rules, with all overrides being logged for auditing purposes.
+
+7. **Awarding Personal Leave Time**  
+   Managers can directly award personal leave time to employees when necessary.
+
+8. **Integration Services**  
+   The system integrates with other organizational services to ensure seamless data flow and functionality.
+
 
 ---
 
