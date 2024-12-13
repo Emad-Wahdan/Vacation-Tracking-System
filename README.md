@@ -1,7 +1,7 @@
 # Vacation-Tracking-System
 
 ## Table of Contents
-1. [Vision](#vision)  
+1. [Vision](#1-vision-)  
 2. [Functional Requirements](#functional-requirements)  
 3. [Non-Functional Requirements](#non-functional-requirements)  
 4. [Constraints](#constraints)  
