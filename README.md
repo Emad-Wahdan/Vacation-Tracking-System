@@ -1,15 +1,15 @@
 # Vacation-Tracking-System
 
 ## Table of Contents
-1. [Vision](#1-vision-)  
+1. [Vision](#vision)  
 2. [Functional Requirements](#functional-requirements)  
 3. [Non-Functional Requirements](#non-functional-requirements)  
 4. [Constraints](#constraints)  
 5. [Use Cases](#use-cases)  
-   - [5.1 Manage Time Use Case](#manage-time-use-case)  
-      - [5.1.1 Create Request](#create-request)  
-      - [5.1.2 Withdraw or Edit Pending Request](#withdraw-or-edit-pending-request)  
-      - [5.1.3 Cancel Approved Request](#cancel-approved-request)  
+   - [5.1 Manage Time Use Case](#51-manage-time-use-case)  
+      - [5.1.1 Create Request](#511-create-request)  
+      - [5.1.2 Withdraw or Edit Pending Request](#512-withdraw-or-edit-pending-request)  
+      - [5.1.3 Cancel Approved Request](#513-cancel-approved-request)  
 6. [Data Model](#data-model)  
 7. [Pseudocode](#pseudocode)  
 
@@ -64,5 +64,3 @@ Include high-level pseudocode or flowcharts that outline the system's logic.
 *(e.g., Provide steps for submitting and approving requests.)*  
 
 ---
-
-
