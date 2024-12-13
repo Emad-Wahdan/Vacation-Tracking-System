@@ -49,15 +49,31 @@ The primary objective of this application is to enhance the organization's inter
 
 ---
 
-## Non-Functional Requirements  
-Highlight the qualities and constraints of the system.  
-*(e.g., The system should handle up to 1,000 concurrent users and respond to requests within 2 seconds.)*
+### Non-Functional Requirements  
+
+1. **Uses Existing Hardware and Middleware**  
+   The system must operate effectively with the organization's existing hardware and middleware infrastructure.
+
+2. **Ease of Use**  
+   The system should be intuitive and easy to use for all employees and managers, ensuring a smooth user experience.
+
 
 ---
 
-## Constraints  
-List any constraints or limitations of your system.  
-*(e.g., The system will only support employees within the company domain.)*
+### Constraints  
+
+1. **Integrations**  
+   The system must integrate with existing organizational systems and services.
+
+2. **Legacy Hardware**  
+   The system needs to be compatible with older hardware systems in use by the organization.
+
+3. **Single-Sign-On**  
+   The system must support single-sign-on for authentication across platforms.
+
+4. **User Experience**  
+   The system should respect the existing fonts, styles, and design patterns to maintain consistency with the main project.
+
 
 ---
 
@@ -76,13 +92,11 @@ Approved vacation requests can be canceled before the vacation start date.
 ---
 
 ## Data Model  
-Provide an overview or diagram of the data structure used in your system.  
-*(Consider using diagrams such as an Entity-Relationship Diagram for clarity.)*  
+
 
 ---
 
 ## Pseudocode  
-Include high-level pseudocode or flowcharts that outline the system's logic.  
-*(e.g., Provide steps for submitting and approving requests.)*  
+
 
 ---
