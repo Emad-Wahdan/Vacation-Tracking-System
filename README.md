@@ -78,9 +78,28 @@ The primary objective of this application is to enhance the organization's inter
 ---
 
 ## Use Cases  
-![Alt Text](C:\Users\EmadAtef\Desktop/Use Case Diagram)
+### **Use Diagram**
+![Use Case Diagram](https://github.com/user-attachments/assets/bc07b6d3-e49b-4529-a072-f1edb1f8c848)
 
+### **Actors & Activities**
 
+#### **1. Managers**
+  - **Approve Request**
+  - **Award Time**
+
+#### **2. Employees**
+  - **Manage Time**
+
+#### **3. HR**
+  - **Edit Employee Record**
+  - **Manage Locations**
+  - **Manage Leave Categories**
+  - **Override Leave Record**
+
+#### **4. System Admin**
+  - **Backup System Logs**
+
+ ---
 ### 5.1 Manage Time Use Case  
 #### 5.1.1 Create Request  
 - **Goal** :
