@@ -109,7 +109,7 @@ The primary objective of this application is to enhance the organization's inter
 The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time.
 
 - **Flow Chart**
-![Create Request drawio](https://github.com/user-attachments/assets/c6bc4cd6-aea3-4561-bc7e-24bd2bb357c4)
+![Create Request drawio](https://github.com/user-attachments/assets/b9c6965d-fc31-4953-9b13-779b8df9a3de)
 ---
 #### 5.1.2 Withdraw or Edit Pending Request  
 Employees can modify or withdraw vacation requests that have not yet been approved.  
