@@ -78,6 +78,8 @@ The primary objective of this application is to enhance the organization's inter
 ---
 
 ## Use Cases  
+![Alt Text](C:\Users\EmadAtef\Desktop/Use Case Diagram)
+
 
 ### 5.1 Manage Time Use Case  
 #### 5.1.1 Create Request  
