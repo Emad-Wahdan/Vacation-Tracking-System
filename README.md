@@ -83,8 +83,15 @@ The primary objective of this application is to enhance the organization's inter
 
 ### 5.1 Manage Time Use Case  
 #### 5.1.1 Create Request  
-Employees can submit a vacation request by specifying the desired dates and type of leave.  
+- **Goal** :
+ Employees can submit a vacation request by specifying the desired dates and type of leave.  
 
+- **Preconditions** :
+The employee is authenticated by the portal framework and identified as an employee of the company with privileges to manage his or her own vacation time.
+
+- **Flow Chart**
+![Create Request drawio](https://github.com/user-attachments/assets/c6bc4cd6-aea3-4561-bc7e-24bd2bb357c4)
+---
 #### 5.1.2 Withdraw or Edit Pending Request  
 Employees can modify or withdraw vacation requests that have not yet been approved.  
 
